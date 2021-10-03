@@ -1,0 +1,56 @@
+.icon {
+    display: flex;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    vertical-align:baseline;
+    border-width: 1px;
+    padding: 10px 0px 0px 10px;
+   /* padding-right: 40px;
+    padding-left: 40px;*/
+    width: 98px;
+    box-sizing: border-box;
+    
+}
+
+.hs{
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+.mainblue {
+    background-color: rgb(0, 25, 76);
+    
+    
+}
+
+.mainbar {
+   display: flex;
+    color: white;
+    height: 60px;
+    width: 80%;
+    font-size: 14px;
+    font-weight: 400;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /*vertical-align: middle;*/
+   
+    
+
+
+    
+
+}
+
+.order {
+    color: rgb(0, 25, 76);
+    background-color: white;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 25px;
+    
+}
